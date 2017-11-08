@@ -1,0 +1,15 @@
+Next patient: 1110
+Next patient: 2111
+Next patient: 3000
+Next patient: 4000
+Next patient: 5110
+Next patient: 6000
+Next patient: 7000
+Next patient: 8101
+Next patient: 9010
+Next patient: 10000
+P(D | Pos1) = 0.75
+P(D | Pos2) = 1
+P(H | Neg1) = 0.83333333333333
+P(H | Neg2) = 0.75
+Neither test is better.
